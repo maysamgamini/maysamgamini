@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Maysam Gamini
 
 🎯 I've been  
-**Staff Software Engineer Team Lead**
-**Principal Chaos Engineering (SRE) Team Lead**
-**Principal Platform Engineer Team Lead**
-**Cloud Architect**
+- **Staff Software Engineer Team Lead**
+- **Principal Chaos Engineering (SRE) Team Lead**
+- **Principal Platform Engineer Team Lead**
+- **Cloud Architect**
 
 I'm a hands-on SRE and Staff software engineer with over a decade of experience designing and operating fault-tolerant, scalable, and observable distributed systems across AWS, Azure, and GCP. I lead resilience engineering and chaos experimentation efforts to proactively detect and eliminate reliability risks—boosting uptime, reducing incident rates, and empowering engineering teams to move fast and safely. Advocate for code excellence and robust system architecture with 10+ years of experience. Expert in Test Driven Design, clean architecture, SOLID pa􀆩erns, refactoring, and code reviews to deliver maintainable, high-performance microservices, API gateways, and event-driven pipelines. Partner with stakeholders to translate requirements into secure, resilient systems with built-in CI/CD, observability, logging, and exception
 handling and mentoring teams to uphold coding standards and drive continuous improvement.
